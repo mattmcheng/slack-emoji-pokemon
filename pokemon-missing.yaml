@@ -1,0 +1,30 @@
+title: pokemon
+emojis:
+  - name: omanyte
+    src: http://i.imgur.com/kX5obKw.png
+  - name: omastar
+    src: http://i.imgur.com/Dbu29qN.png
+  - name: kabuto
+    src: http://i.imgur.com/OY7ujoJ.png
+  - name: kabutops
+    src: http://i.imgur.com/QlGO2ik.png
+  - name: aerodactyl
+    src: http://i.imgur.com/GHn4OfJ.png
+  - name: snorlax
+    src: http://i.imgur.com/4mVf4qo.png
+  - name: articuno
+    src: http://i.imgur.com/vGhFLIE.png
+  - name: zapdos
+    src: http://i.imgur.com/YRoGMhw.png
+  - name: moltres
+    src: http://i.imgur.com/xF2Iq2z.png
+  - name: dratini
+    src: http://i.imgur.com/u4kuUX6.png
+  - name: dragonair
+    src: http://i.imgur.com/wnO5kMH.png
+  - name: dragonite
+    src: http://i.imgur.com/tRAf2ht.png
+  - name: mewtwo
+    src: http://i.imgur.com/EbSLVKQ.png
+  - name: mew
+    src: http://i.imgur.com/5n3F79K.png
